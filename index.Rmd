@@ -50,7 +50,7 @@ style_duo_accent(
 )
 ```
 
-class: hide_logo, title-slide, inverse, bottom
+class: hide_logo, title-slide, bottom
 background-image: url(`r rmarkdown::metadata$url_unsplash`)
 background-size: cover
 
