@@ -4,6 +4,7 @@ subtitle: "Vivre l’inclusion avec les apports de la psychologie positive."
 author: "Nicolas Bressoud"
 date: "6 septembre 2022"
 team: "HEP-VS | PH-VS"
+coauthors: "Andrea Christiane Samson (UNIFR, Unidistance), Rebecca Shankland (univ. Lumière Lyon 2)"
 photo_creds: "[Laure Coutaz Bressoud](https://thecloudyfactory.ch)" 
 url_unsplash: "img/0.png"
 background_position: "1050px 20px"
@@ -57,7 +58,7 @@ background-size: cover
 
 ## `r rmarkdown::metadata$subtitle`
 
-### `r rmarkdown::metadata$author` - `r rmarkdown::metadata$team`
+### `r rmarkdown::metadata$author` (`r rmarkdown::metadata$team`), `r rmarkdown::metadata$coauthors`
 
 ### `r rmarkdown::metadata$date`
 
